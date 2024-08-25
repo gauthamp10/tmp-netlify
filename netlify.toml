@@ -1,3 +1,4 @@
+### 1 ###
 [[redirects]]
   from = "/1"
   to = "https://pseudo-flix.pro/media/tmdb-movie-776503-coda"
@@ -14,5 +15,25 @@
 [[redirects]]
   from = "/1.qr"
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/1"
+  status = 301
+  force = true
+
+### 2 ###
+[[redirects]]
+  from = "/2"
+  to = "https://www.youtube.com/watch?v=2ErfXLkVBMY"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BMTY4YjY3ZDgtYjVhZS00MWY4LTlkYmMtNGI4ZGY4YzhiZmIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/2.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/2"
   status = 301
   force = true
