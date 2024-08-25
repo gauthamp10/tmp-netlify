@@ -177,3 +177,23 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/9"
   status = 301
   force = true
+
+### 10 ###
+[[redirects]]
+  from = "/10"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-212778-chef"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/10.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BYTQyNDQwMjYtZTY5YS00MGU2LWE5NzctMjM4Y2IyYjkwMjNkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/10.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/10"
+  status = 301
+  force = true
