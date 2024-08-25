@@ -37,3 +37,103 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/2"
   status = 301
   force = true
+
+### 3 ###
+[[redirects]]
+  from = "/3"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-15859-a-moment-to-remember"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/3.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BODYzODg5Mjg3Ml5BMl5BanBnXkFtZTgwNDM1MDQ2MzE@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/3.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/3"
+  status = 301
+  force = true
+
+### 4 ###
+[[redirects]]
+  from = "/4"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-60243-a-separation"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/4.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/4.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/4"
+  status = 301
+  force = true
+
+### 5 ###
+[[redirects]]
+  from = "/5"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-12244-9"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/5.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BMTY2ODE1MTgxMV5BMl5BanBnXkFtZTcwNTM1NTM2Mg@@._V1_FMjpg_UX1000_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/5.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/5"
+  status = 301
+  force = true
+
+### 6 ###
+[[redirects]]
+  from = "/6"
+  to = "https://youtu.be/zuQYlgL73o0?si=iqPIH1WgbS2cjcoR"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/6.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/6.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/6"
+  status = 301
+  force = true
+
+### 7 ###
+[[redirects]]
+  from = "/7"
+  to = " https://pseudo-flix.pro/media/tmdb-movie-9036-eight-below"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/7.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BMjExMjAwNzE0N15BMl5BanBnXkFtZTYwMDY4NDk2._V1_FMjpg_UX1000_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/7.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/7"
+  status = 301
+  force = true
