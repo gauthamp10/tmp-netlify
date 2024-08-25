@@ -121,7 +121,7 @@
 ### 7 ###
 [[redirects]]
   from = "/7"
-  to = " https://pseudo-flix.pro/media/tmdb-movie-9036-eight-below"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-9036-eight-below"
   status = 301
   force = true
 
@@ -135,5 +135,45 @@
 [[redirects]]
   from = "/7.qr"
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/7"
+  status = 301
+  force = true
+
+### 8 ###
+[[redirects]]
+  from = "/8"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-68256-stanley-ka-dabba"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/8.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BZWVlMzlmOWItYTgwMi00MjExLTgwNDItNWI4YzY2MTgzMWJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/8.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/8"
+  status = 301
+  force = true
+
+### 9 ###
+[[redirects]]
+  from = "/9"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-266038-titli"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/9.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BYTY3MTQzZTMtNzdjOC00NjQ1LTg4ZTgtZTk2NDIzMjE3Yjg0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/9.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/9"
   status = 301
   force = true
