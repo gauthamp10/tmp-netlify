@@ -1,0 +1,12 @@
+[[redirects]]
+  from = "/togo"
+  to = "https://google.com/search?q=togo"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ice"
+  to = "https://google.com/search?q=ice-ge-2008"
+  status = 301
+  force = true
+
