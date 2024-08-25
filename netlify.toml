@@ -197,3 +197,23 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/10"
   status = 301
   force = true
+
+### 11
+[[redirects]]
+  from = "/11"
+  to = "https://www.youtube.com/watch?v=Nxn_6kHVYdc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/11.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BY2YzZmEwZjAtYjg4NC00NzA2LWIwYzMtM2M5MGRlNzVmMDMwXkEyXkFqcGdeQXVyOTA4MzYxMzU@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/11.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/11"
+  status = 301
+  force = true
