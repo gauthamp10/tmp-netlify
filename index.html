@@ -3,153 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gautham Al Hayat De-addiction Centre | مركز غاوتام الحياة لعلاج الإدمان</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            direction: rtl; /* Arabic text direction */
-        }
+    <title>Static Redirector</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get the current path from the URL
+            var path = window.location.pathname;
 
-        header {
-            background-color: #5A9;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
+            // Define the redirections
+            var redirects = {
+                '/togo': 'https://google.com/search?q=togo',
+                '/ice': 'https://google.com/search?q=ice-age-2008'
+            };
 
-        h1 {
-            margin: 0;
-            font-size: 2.5em;
-            direction: rtl; /* Right to left for Arabic */
-        }
-
-        nav {
-            background-color: #333;
-            overflow: hidden;
-            text-align: center;
-        }
-
-        nav a {
-            display: inline-block;
-            color: white;
-            padding: 14px 20px;
-            text-decoration: none;
-        }
-
-        nav a:hover {
-            background-color: #575757;
-        }
-
-        .hero {
-            background-image: url('support.jpeg'); /* Replace with your hero image */
-            background-size: cover;
-            background-position: center;
-            padding: 100px 20px;
-            color: white;
-            text-align: center;
-        }
-
-        .hero h2 {
-            font-size: 2em;
-            margin: 0;
-        }
-
-        .container {
-            padding: 20px;
-            text-align: left;
-            direction: ltr; /* English text direction */
-        }
-
-        .section-title {
-            color: #5A9;
-            font-size: 1.8em;
-            margin-bottom: 10px;
-        }
-
-        .service {
-            background-color: #fff;
-            padding: 15px;
-            margin: 10px 0;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-
-        .service img {
-            max-width: 100%;
-            height: auto;
-            margin-bottom: 10px;
-        }
-
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-        }
-
-        footer a {
-            color: #5A9;
-            text-decoration: none;
-        }
-    </style>
+            // Check if there is a redirection for the current path
+            if (redirects[path]) {
+                // Redirect to the new URL
+                window.location.href = redirects[path];
+            }
+        });
+    </script>
 </head>
 <body>
-    <header>
-        <h1>Gautham Al Hayat De-addiction Centre | مركز غاوتام الحياة لعلاج الإدمان</h1>
-        <p>Rebuilding Lives, Freedom from Addiction | إعادة بناء الحياة، الحرية من الإدمان</p>
-    </header>
-
-    <nav>
-        <a href="#contact">Contact Us | اتصل بنا</a>
-        <a href="#services">Our Services | خدماتنا</a>
-        <a href="#about">About Us | من نحن</a>
-        <a href="#home">Home | الرئيسية</a>
-    </nav>
-
-    <section class="hero" id="home">
-        <h2>We Are Here to Support You | نحن هنا لدعمك</h2>
-        <p>Start your journey today with Gautham Al Hayat De-addiction Centre | ابدأ رحلتك اليوم مع مركز غاوتام الحياة لعلاج الإدمان</p>
-    </section>
-
-    <div class="container">
-        <section id="about">
-            <h2 class="section-title">About Us | من نحن</h2>
-            <p>Gautham Al Hayat is dedicated to helping individuals overcome addiction and reclaim their lives. We offer comprehensive treatment programs that address the psychological and physical aspects of addiction. | مركز غاوتام الحياة مخصص لمساعدة الأفراد على التغلب على الإدمان واستعادة حياتهم. نحن نقدم برامج علاج شاملة تستهدف الجوانب النفسية والجسدية للإدمان.</p>
-        </section>
-
-        <section id="services">
-            <h2 class="section-title">Our Services | خدماتنا</h2>
-            <div class="service">
-                <h3>Personalized Treatment Programs | برامج العلاج الشخصي</h3>
-                <img src="vaping.jpeg" alt="Vaping Treatment">
-                <p>We provide personalized treatment programs tailored to each individual’s needs to help them achieve sustainable recovery. | نحن نقدم برامج علاج شخصية تعتمد على احتياجات كل فرد لمساعدته على تحقيق التعافي المستدام.</p>
-            </div>
-            <div class="service">
-                <h3>Group and Individual Counseling | الاستشارات الجماعية والفردية</h3>
-                <img src="counselling.jpg" alt="Counseling">
-                <p>Professional counseling to support individuals at every step of their recovery journey. | استشارات مهنية لدعم الأفراد في كل خطوة من رحلتهم نحو التعافي.</p>
-            </div>
-            <div class="service">
-                <h3>Follow-up and Support Services | خدمات المتابعة والدعم</h3>
-                <img src="support.jpg" alt="Support Services">
-                <p>We offer follow-up services after treatment to ensure continued recovery and ongoing support. | نحن نقدم خدمات متابعة بعد العلاج لضمان استمرار التعافي والدعم المستمر.</p>
-            </div>
-        </section>
-
-        <section id="contact">
-            <h2 class="section-title">Contact Us | اتصل بنا</h2>
-            <p>Address: Example Street, City, Country | العنوان: شارع مثال, المدينة, البلد</p>
-            <p>Phone: 123-456-7890 | الهاتف: 123-456-7890</p>
-            <p>Email: info@gauthamalhayat.com | البريد الإلكتروني: info@gauthamalhayat.com</p>
-        </section>
-    </div>
-
-    <footer>
-        <p>© 2024 Gautham Al Hayat De-addiction Centre. All Rights Reserved. | © 2024 مركز غاوتام الحياة لعلاج الإدمان. جميع الحقوق محفوظة.</p>
-        <p>Connect with us on <a href="https://wa.me/1234567890">WhatsApp | واتساب</a></p>
-    </footer>
+    <p>Redirecting...</p>
 </body>
 </html>
+
