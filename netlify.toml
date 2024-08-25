@@ -6,7 +6,7 @@
   force = true
 
 [[redirects]]
-  from = "/1.jpg"
+  from = "/1.poster"
   to = "https://m.media-amazon.com/images/M/MV5BYzkyNzNiMDItMGU1Yy00NmEyLWE4N2ItMjkzMDZmMmVhNDU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
   status = 301
   force = true
@@ -26,7 +26,7 @@
   force = true
 
 [[redirects]]
-  from = "/2.jpg"
+  from = "/2.poster"
   to = "https://m.media-amazon.com/images/M/MV5BMTY4YjY3ZDgtYjVhZS00MWY4LTlkYmMtNGI4ZGY4YzhiZmIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
   status = 301
   force = true
@@ -46,7 +46,7 @@
   force = true
 
 [[redirects]]
-  from = "/3.jpg"
+  from = "/3.poster"
   to = "https://m.media-amazon.com/images/M/MV5BODYzODg5Mjg3Ml5BMl5BanBnXkFtZTgwNDM1MDQ2MzE@._V1_.jpg"
   status = 301
   force = true
@@ -66,7 +66,7 @@
   force = true
 
 [[redirects]]
-  from = "/4.jpg"
+  from = "/4.poster"
   to = "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_.jpg"
   status = 301
   force = true
@@ -86,7 +86,7 @@
   force = true
 
 [[redirects]]
-  from = "/5.jpg"
+  from = "/5.poster"
   to = "https://m.media-amazon.com/images/M/MV5BMTY2ODE1MTgxMV5BMl5BanBnXkFtZTcwNTM1NTM2Mg@@._V1_FMjpg_UX1000_.jpg"
   status = 301
   force = true
@@ -106,7 +106,7 @@
   force = true
 
 [[redirects]]
-  from = "/6.jpg"
+  from = "/6.poster"
   to = "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_.jpg"
   status = 301
   force = true
@@ -126,7 +126,7 @@
   force = true
 
 [[redirects]]
-  from = "/7.jpg"
+  from = "/7.poster"
   to = "https://m.media-amazon.com/images/M/MV5BMjExMjAwNzE0N15BMl5BanBnXkFtZTYwMDY4NDk2._V1_FMjpg_UX1000_.jpg"
   status = 301
   force = true
