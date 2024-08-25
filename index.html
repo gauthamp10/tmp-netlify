@@ -4,24 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Static Redirector</title>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Get the current path from the URL
-            var path = window.location.pathname;
-
-            // Define the redirections
-            var redirects = {
-                '/togo': 'https://google.com/search?q=togo',
-                '/ice': 'https://google.com/search?q=ice-age-2008'
-            };
-
-            // Check if there is a redirection for the current path
-            if (redirects[path]) {
-                // Redirect to the new URL
-                window.location.href = redirects[path];
-            }
-        });
-    </script>
 </head>
 <body>
     <p>Redirecting...</p>

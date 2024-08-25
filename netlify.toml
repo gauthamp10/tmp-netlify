@@ -1,12 +1,18 @@
 [[redirects]]
-  from = "/togo"
-  to = "https://google.com/search?q=togo"
+  from = "/1"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-776503-coda"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/ice"
-  to = "https://google.com/search?q=ice-ge-2008"
+  from = "/1.jpg"
+  to = "https://m.media-amazon.com/images/M/MV5BYzkyNzNiMDItMGU1Yy00NmEyLWE4N2ItMjkzMDZmMmVhNDU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
   status = 301
   force = true
 
+
+[[redirects]]
+  from = "/1.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://movieredirect.netlify.app/1"
+  status = 301
+  force = true
