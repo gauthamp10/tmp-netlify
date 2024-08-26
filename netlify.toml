@@ -237,3 +237,43 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/12"
   status = 301
   force = true
+
+### 13
+[[redirects]]
+  from = "/13"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-12289-red-cliff"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/13.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BMTcyOTQ3NDA1OV5BMl5BanBnXkFtZTcwMDY3NzM4Mg@@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/13.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/13"
+  status = 301
+  force = true
+
+### 14
+[[redirects]]
+  from = "/14"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-18079-nine-queens"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/14.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BYzE5NTVmYjUtMmE2Ni00OTY5LWJkYTgtZmNmYTM4NDE0YTMzXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_FMjpg_UX1000_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/14.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/14"
+  status = 301
+  force = true
