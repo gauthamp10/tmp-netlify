@@ -217,3 +217,23 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/11"
   status = 301
   force = true
+
+### 12
+[[redirects]]
+  from = "/12"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-68734-argo"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/12.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/12.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/12"
+  status = 301
+  force = true
