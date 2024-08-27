@@ -441,13 +441,13 @@
 ### 23
 [[redirects]]
   from = "/23"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-109410-42"
   status = 301
   force = true
 
 [[redirects]]
   from = "/23.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@._V1_.jpg"
   status = 301
   force = true
 
@@ -461,13 +461,13 @@
 ### 24
 [[redirects]]
   from = "/24"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-10315-fantastic-mr-fox"
   status = 301
   force = true
 
 [[redirects]]
   from = "/24.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
   status = 301
   force = true
 
@@ -481,13 +481,13 @@
 ### 25
 [[redirects]]
   from = "/25"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-21334-children-of-heaven"
   status = 301
   force = true
 
 [[redirects]]
   from = "/25.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
   status = 301
   force = true
 
