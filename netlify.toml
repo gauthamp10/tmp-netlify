@@ -281,13 +281,13 @@
 ### 15
 [[redirects]]
   from = "/15"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-10775-infernal-affairs"
   status = 301
   force = true
 
 [[redirects]]
   from = "/15.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BODMzOGVmZDktMGNjNS00NzJkLWJiZGUtNTU1YTIyMzI4Njc4XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg"
   status = 301
   force = true
 
@@ -301,13 +301,13 @@
 ### 16
 [[redirects]]
   from = "/16"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-16553-little-manhattan"
   status = 301
   force = true
 
 [[redirects]]
   from = "/16.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BMTE5OTU5MjMzOF5BMl5BanBnXkFtZTcwMzUzNzIzMQ@@._V1_.jpg"
   status = 301
   force = true
 
@@ -321,13 +321,13 @@
 ### 17
 [[redirects]]
   from = "/17"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-1393-the-cave-of-the-yellow-dog"
   status = 301
   force = true
 
 [[redirects]]
   from = "/17.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BZjdlZmZiYmMtOGY5ZC00ZDkwLWFkNGYtMWY3OTQyOTYzNmY0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg"
   status = 301
   force = true
 
@@ -341,13 +341,13 @@
 ### 18
 [[redirects]]
   from = "/18"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-1542-office-space"
   status = 301
   force = true
 
 [[redirects]]
   from = "/18.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1_FMjpg_UX1000_.jpg"
   status = 301
   force = true
 
