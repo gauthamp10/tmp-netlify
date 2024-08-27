@@ -361,13 +361,13 @@
 ### 19
 [[redirects]]
   from = "/19"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-348678-a-man-called-ove"
   status = 301
   force = true
 
 [[redirects]]
   from = "/19.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BMjE0NDUyOTc2MV5BMl5BanBnXkFtZTgwODk2NzU3OTE@._V1_.jpg"
   status = 301
   force = true
 
@@ -381,13 +381,13 @@
 ### 20
 [[redirects]]
   from = "/20"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-381284-hidden-figures"
   status = 301
   force = true
 
 [[redirects]]
   from = "/20.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BMzgxZTNhYjAtYmM1OC00NjVlLThiYTAtZmFjYjQwOTZiMjcyXkEyXkFqcGdeQXVyMjQ5NjgwMjA@._V1_.jpg"
   status = 301
   force = true
 
@@ -401,13 +401,13 @@
 ### 21
 [[redirects]]
   from = "/21"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-472454-ayla-the-daughter-of-war"
   status = 301
   force = true
 
 [[redirects]]
   from = "/21.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BZjE2NGYwMGQtOWE4MC00NTFjLTk3YTgtMWI5ZmZlMzUyYzExXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
   status = 301
   force = true
 
@@ -421,13 +421,13 @@
 ### 22
 [[redirects]]
   from = "/22"
-  to = ""
+  to = "https://pseudo-flix.pro/media/tmdb-movie-209185-the-grand-seduction"
   status = 301
   force = true
 
 [[redirects]]
   from = "/22.poster"
-  to = ""
+  to = "https://m.media-amazon.com/images/M/MV5BMjI3NTEwMjk0MV5BMl5BanBnXkFtZTgwODUxMTI1MTE@._V1_.jpg"
   status = 301
   force = true
 
