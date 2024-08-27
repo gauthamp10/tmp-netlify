@@ -277,3 +277,223 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/14"
   status = 301
   force = true
+
+### 15
+[[redirects]]
+  from = "/15"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/15.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/15.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/15"
+  status = 301
+  force = true
+
+### 16
+[[redirects]]
+  from = "/16"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/16.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/16.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/16"
+  status = 301
+  force = true
+
+### 17
+[[redirects]]
+  from = "/17"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/17.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/17.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/17"
+  status = 301
+  force = true
+
+### 18
+[[redirects]]
+  from = "/18"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/18.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/18.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/18"
+  status = 301
+  force = true
+
+### 19
+[[redirects]]
+  from = "/19"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/19.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/19.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/19"
+  status = 301
+  force = true
+
+### 20
+[[redirects]]
+  from = "/20"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/20.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/20.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/20"
+  status = 301
+  force = true
+
+### 21
+[[redirects]]
+  from = "/21"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/21.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/21.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/21"
+  status = 301
+  force = true
+
+### 22
+[[redirects]]
+  from = "/22"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/22.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/22.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/22"
+  status = 301
+  force = true
+
+### 23
+[[redirects]]
+  from = "/23"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/23.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/23.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/23"
+  status = 301
+  force = true
+
+### 24
+[[redirects]]
+  from = "/24"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/24.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/24.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/24"
+  status = 301
+  force = true
+
+### 25
+[[redirects]]
+  from = "/25"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/25.poster"
+  to = ""
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/25.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/25"
+  status = 301
+  force = true
