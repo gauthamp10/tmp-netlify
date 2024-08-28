@@ -497,3 +497,23 @@
   to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/25"
   status = 301
   force = true
+
+### 26
+[[redirects]]
+  from = "/26"
+  to = "https://pseudo-flix.pro/media/tmdb-movie-49517-tinker-tailor-soldier-spy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/26.poster"
+  to = "https://m.media-amazon.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1_.jpg"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/26.qr"
+  to = "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://cracko.netlify.app/26"
+  status = 301
+  force = true
